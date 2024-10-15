@@ -7,6 +7,7 @@ namespace BasicCalculator
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a mathematical expression:");
+            string expression = Console.ReadLine();
         }
     }
 }
